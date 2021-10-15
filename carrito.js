@@ -1,4 +1,4 @@
-var Cliente = require ('./Modulo_Mongo.js');
+var Cliente = require ('./MymongoDB.js');
 
 class Producto{
 	constructor(key, informacion, cantidad) {
