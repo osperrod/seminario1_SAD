@@ -3,7 +3,7 @@ var Cliente = require ('./MymongoDB.js');
 class Producto{
 	constructor(key, informacion, cantidad) {
         this.key = key;
-		this.informacio = informacio;
+		this.informacion = informacion;
 		this.cantidad = cantidad;
     }
 }
